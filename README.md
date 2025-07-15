@@ -42,7 +42,6 @@ It suggests similar movies based on:
 ```bash
 # Clone the repo
 git clone https://github.com/shahmir0khan/Movie-Recommendation--System
-cd MovieRecommenderSystem
 
 # Install dependencies
 pip install -r requirements.txt
